@@ -1,0 +1,5 @@
+Terminal commands
+
+ls is list
+mkdir is make directory 
+cd is change directory
